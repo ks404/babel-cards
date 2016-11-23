@@ -1,4 +1,9 @@
-Router.route('/addword'); // defines the route
+Router.route('/', {
+
+	template: 'addword'
+
+}); // defines the route
+
 
 
 
